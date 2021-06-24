@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# Monterey-Fox
+A theme designed to replicate the Safari from the Monterey update.
 
-You can use the [editor on GitHub](https://github.com/FirefoxCSSThemers/Monterey-Fox/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Made by [Alfarex Guy](https://github.com/alfarexguy2019)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This theme is still in beta, so using it might brick your installation.
 
-### Markdown
+## Tested on:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Linux (Arch Distro)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Features replicated:
 
-**Bold** and _Italic_ and `Code` text
+- URL Bar in Tab
+- The menus and colors.
+- Change of color with tabs (still in beta)
+ 
+## Perks:
 
-[Link](url) and ![Image](src)
-```
+- Transparency fixes.
+- Works better on macOS than actual Safari.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Screenshots:
 
-### Jekyll Themes
+**Linux:**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FirefoxCSSThemers/Monterey-Fox/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![image](https://user-images.githubusercontent.com/78948152/123194110-8e893500-d4c3-11eb-89e4-e4395578c632.png)
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Release Date:
+
+The theme is supposed to release this week, but other development may delay it. 
