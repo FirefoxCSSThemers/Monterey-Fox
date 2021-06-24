@@ -3,6 +3,15 @@ A theme designed to replicate the Safari from the Monterey update.
 
 Made by [Alfarex Guy](https://github.com/alfarexguy2019)
 
+This theme is still in beta, so using it might brick your installation.
+
+## Tested on:
+
+- Linux (Arch Distro)
+
+
+
+
 ## Features replicated:
 
 - URL Bar in Tab
