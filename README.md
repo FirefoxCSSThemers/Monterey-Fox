@@ -8,7 +8,7 @@ This theme is still in beta, so using it might brick your installation.
 ## Tested on:
 
 - Linux (Arch Distro)
-
+- MacOS Monterey
 
 
 
@@ -29,8 +29,11 @@ This theme is still in beta, so using it might brick your installation.
 
 ![image](https://user-images.githubusercontent.com/78948152/123194110-8e893500-d4c3-11eb-89e4-e4395578c632.png)
 
+**MacOS:**
+
+![image](https://user-images.githubusercontent.com/78948152/123545405-780a0480-d775-11eb-8ea3-83fd3c463d79.png)
+
 
 ## Release Date:
 
 The theme is supposed to release this week, but other development may delay it. 
-
