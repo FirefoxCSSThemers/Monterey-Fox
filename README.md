@@ -1,4 +1,4 @@
-# Monterey-Fox
+# Monterey-Fox (Currently under maintenance)
 A theme designed to replicate the Safari from the Monterey update.
 
 Made by [Alfarex Guy](https://github.com/alfarexguy2019)
